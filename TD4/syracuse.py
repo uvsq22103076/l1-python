@@ -1,0 +1,2 @@
+syracuse
+def syracuse(n):
